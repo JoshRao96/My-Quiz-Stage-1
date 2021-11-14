@@ -1,1 +1,1 @@
-# My-Quiz-Stage-1
+# project-template-myquiz
